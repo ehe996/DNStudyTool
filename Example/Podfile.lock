@@ -1,0 +1,16 @@
+PODS:
+  - DNStudyTool (0.1.0)
+
+DEPENDENCIES:
+  - DNStudyTool (from `../`)
+
+EXTERNAL SOURCES:
+  DNStudyTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DNStudyTool: ca2fd17e5799fc264162471738a0c4b6b01ed322
+
+PODFILE CHECKSUM: 720596922de83ebd14f684cfda1c73dbea8c4e34
+
+COCOAPODS: 1.11.2
